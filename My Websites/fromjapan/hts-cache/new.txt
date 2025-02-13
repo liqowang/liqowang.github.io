@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:12:16	134/134	---M--	301	error ('Moved%20Permanently')	text/html	date:Thu,%2013%20Feb%202025%2007:12:15%20GMT	http://www.fromjapan.co.jp/robots.txt		(from )
+15:12:17	134/134	---M--	301	error ('Moved%20Permanently')	text/html	date:Thu,%2013%20Feb%202025%2007:12:15%20GMT	http://www.fromjapan.co.jp/	C:/My%20Websites/fromjapan/www.fromjapan.co.jp/index.html	(from )
